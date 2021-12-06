@@ -4,3 +4,4 @@ Context : L’entreprise "Prêt à dépanser” propose des crédits à la conso
 
 Objective : L’entreprise souhaite développer un modèle de scoring de la probabilité de défaut de paiement du client
 
+Résultats : https://p7-default.herokuapp.com/
